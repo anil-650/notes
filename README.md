@@ -1,6 +1,6 @@
 # notes
 Clg notes
 
-## EVS
+## [EVS](/EVS)
 
-## Digital Logic
+## [Digital Logic](/DL)
