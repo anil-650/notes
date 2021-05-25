@@ -3,6 +3,6 @@
 1. Contains an Array of `AND` & `OR` gates.
 *Muliple gates combined electrically that's why it's called Integrated curcit.*
 1. Based on Array type **3** types.
- 1. Programmable ROM(Read Only Memory).
- 1. Programmable Array Logic.
- 1. Programmable Logic Array.
+   1. Programmable ROM(Read Only Memory).
+   1. Programmable Array Logic.
+   1. Programmable Logic Array.
