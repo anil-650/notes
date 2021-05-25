@@ -2,3 +2,5 @@
 Clg notes
 
 ## EVS
+
+## Digital Logic

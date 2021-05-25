@@ -1,1 +1,1 @@
-# PLD(Programmable Logic Device
+# PLD(Programmable Logic Device)
