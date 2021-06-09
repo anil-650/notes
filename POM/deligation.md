@@ -1,6 +1,6 @@
 gathering of commission to take the action
 # Creation of Obligation
-## adv
+## Advantages
 1. Reduces the work load of manager.
 1. Basis of superior and subordinate relationship.
 1. Improve managerial effectiveness.
@@ -8,8 +8,8 @@ gathering of commission to take the action
 1. Develop manager.
 1. Facilitate organisational growth.
 
-## dis adv / obstacles in the process of delegation
-(diff for diff person)
+## Obstacles in the process of delegation
+(different for different person)
 1. obstacle for on the of part superior
 
 	1. Lack of confidence in  subordinate.
