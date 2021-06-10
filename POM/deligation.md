@@ -10,7 +10,7 @@ gathering of commission to take the action
 
 ## Obstacles in the process of delegation
 (different for different person)
-1. obstacle on the of part superior
+1. Obstacle on the of part superior
 
 	1. Lack of confidence in Subordinate.
 	1. Fear of competition.
