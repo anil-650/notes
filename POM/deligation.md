@@ -10,14 +10,14 @@ gathering of commission to take the action
 
 ## Obstacles in the process of delegation
 (different for different person)
-1. obstacle for on the of part superior
+1. obstacle on the of part superior
 
-	1. Lack of confidence in  subordinate.
+	1. Lack of confidence in Subordinate.
 	1. Fear of competition.
 	1. Behave like a autocrat.
 	1. They have the feeling of perfectionism.
 
-1. On the part of the subordinate
+1. Obstacles on the part of the Subordinate
 
 	1. Dependence of the boss.
 	1. Fear of criticism.
