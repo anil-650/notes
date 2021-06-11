@@ -38,7 +38,7 @@
 + Evaluation of deviation between actual and planed input data should be
   performed recurrently and the assessment of their effort on the desired
   result should be done.
-+ It is taken to reviles the difficulties faced by people and the needed
++ Steps are taken to reviles the difficulties faced by people and the needed
   methodology to solving them.
 
 ## Concurrent control
