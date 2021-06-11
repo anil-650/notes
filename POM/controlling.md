@@ -41,7 +41,7 @@
 + Steps are taken to reviles the difficulties faced by people and the needed
   methodology to solving them.
 
-## Concurrent control
+## Concurrent controlling
 1. Consist of monitoring and regulating the activity that are in execution
 phase so that desired outcomes can be achieved.
 1. It is structured as all the operation are accurately executed and provided
