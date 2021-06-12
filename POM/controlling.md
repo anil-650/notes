@@ -4,12 +4,12 @@
    needed.
 1. So Planing is a process that facilitates the measuring the actual
    performance against set standard.
-1. According to "Henry Fayol" controlling is an undertaking control of seeing
+1. According to "*Henry Fayol*" controlling is an undertaking control of seeing
    that everything is being carried out in accordance of plan which have been
    adopted ,the order which have been given and the principles which have been
    laid down.
-1. According to "--pucj Donald" controlling is the measuring and correcting of
-   activity of subordinate to ensure that the event confirm to plan.
+1. According to "*O'Donnell*" controlling is the measuring and correcting of
+   activities of subordinates to assure that event confirm to plan.
 
 # Characteristic of Controlling
 1. Pervasive function
@@ -47,5 +47,19 @@
 phase so that desired outcomes can be achieved.
 1. It is structured as all the operation are accurately executed and provided
 the goals.
+1. Also known as **String Control**.
 
-## real time Information and controlling.
+## Feed Back Controlling
+1. It Evaluates the result and matches them with the pre-defined standards.
+1. It's a type of control which is exercised after the execution of an action.
+1. Also known as **Post Action Control** & **Output Control**.
+
+Diagram:
+![]()
+
+1. Feed Back also record as *"after the event"* information and is essential for taking the corrective action.
+
+
+
+
+
