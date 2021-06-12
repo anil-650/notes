@@ -1,3 +1,4 @@
+(data is incomplete where -- is )
 # Controlling
 1. It strives to measure the performance and take the remedial action when
    needed.
@@ -7,14 +8,14 @@
    that everything is being carried out in accordance of plan which have been
    adopted ,the order which have been given and the principles which have been
    laid down.
-1. According to "pucj Donald" controlling is the measuring and correcting of
+1. According to "--pucj Donald" controlling is the measuring and correcting of
    activity of subordinate to ensure that the event confirm to plan.
 
 # Characteristic of Controlling
 1. Pervasive function
 1. Unveil the mistakes
 1. Continuous process
-1. Positive purpose of continuos
+1. Positive purpose of --continuos
 1. Exercise on all the level
 1. Guide the behavior of people and resource
 1. Evaluates performance
@@ -25,19 +26,19 @@
 # Types of Controlling
 ## feet forward controlling
 1. Is a type of controlling where the inputs of a process are evaluated and
-   correctively action are taken before the execution of activity so that.
+   correctively action are taken before the execution of activity so that--.
 
 1. ***Features***
 + Control system should properly investigate analyze and planing of the
   system.
 + It is a comprehensive model should be develop for the overall system.
-+ The measurement of the model should be done time to time on the ,if the
-  recognise input.
++ The measurement of the model should be done time to time on the-- ,if the
+  recognise input--.
 + The collection of data related to input variable to be done on a regular
   basis.
 + Evaluation of deviation between actual and planed input data should be
   performed recurrently and the assessment of their effort on the desired
-  result should be done.
+  result should be done--.
 + Steps are taken to reviles the difficulties faced by people and the needed
   methodology to solving them.
 
