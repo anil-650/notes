@@ -83,7 +83,7 @@ ex:20 = 14 or (14)<sub>16</sub>
 
 # 8. Fs=a•b•c+a'•b•c'+a•b•c draw the logic circuit for above boolean function.
 
-# 9. Synthesization  with hand and nor gate F= a•b+a'•b+a'b'
+# 9. Synthesization  with nand and nor gate F= a•b+a'•b+a'b'
 
 # 10. What is universal nand gate and nor gate?
 
