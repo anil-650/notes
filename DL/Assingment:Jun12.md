@@ -65,7 +65,7 @@ Conversion steps:
 1. Repeat the steps until the quotient is equal to 0
 1. Put the bits in reverse high to low order.
 
-ex:20 = 14 or (14)<sub>8</sub>
+ex:20 = 14 or (14)<sub>16</sub>
 | Division by 16 | Quotient | Remainder | Bit |
 |----------------|----------|-----------|-----|
 | 20/16          | 1        | 4         | 0   |
