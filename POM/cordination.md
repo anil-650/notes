@@ -29,7 +29,9 @@
 ## *External* Co-ordination
 + Market 
 + Competition 
-	<might be missing a point here>
+
+<might be missing a point here>
+
 + Labour market 
 + Raw material 
 + Transport services 
