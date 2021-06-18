@@ -73,7 +73,31 @@ ex:20 = 14 or (14)<sub>16</sub>
 
 # 3. What is boolean algebra & the boolean variable have how many possible value.
 
+Answer:
+Boolean algebra is the branch of algebra in which the values of the variables are true and false, usually denoted 1 and 0, respectively.
+
 # 4. Logic gate explain all the logic gates along with its block diagram and truth table.
+
+Answer:
+Logic gates are the basic building blocks of any digital system. It is an electronic circuit having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as *AND* gate, *OR* gate, *NOT* gate .
+
+### AND Gate
+A circuit which performs an AND operation is shown in figure. It has n input (n >= 2) and one output.
+Only returns true if both values are true.
+
+![](./img/AND.jpg)
+
+### OR Gate
+A circuit which performs an OR operation is shown in figure. It has n input (n >= 2) and one output.
+Only returns true if 1 or both of the values are true
+
+![](./img/OR.jpg)
+
+### NOT Gate
+NOT gate is also known as Inverter. It has one input A and one output Y.It reverses the input value i.e. true to false, false to true.
+
+![](./img/NOT.jpg)
+
 
 # 5. What is tristate buffer ?
 
