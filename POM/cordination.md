@@ -22,9 +22,9 @@
 + *Internal* Co-ordination & *External* Co-ordination
 
 ## *Internal* Co-ordination
-+ Vertical		Co-ordination |
-+ Horizontal	Co-ordination --
-+ Diagonal		Co-ordination \
++ Vertical     Co-ordination |
++ Horizontal   Co-ordination --
++ Diagonal     Co-ordination \
 
 ## *External* Co-ordination
 + Market 
