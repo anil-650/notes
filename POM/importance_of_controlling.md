@@ -28,9 +28,7 @@
 1. Direct attention to Deviation
 1. Comprehensive and easily understood
 1. Should encompass remedy (and something I don't remember)
-
-< a point missing may be right here >
-
+	+ < a point missing may be right here >
 1. Enforceable & Economical
 1. Focused on Function & Factors
 1. Selective Control
