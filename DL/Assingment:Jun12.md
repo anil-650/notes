@@ -103,6 +103,7 @@ NOT gate is also known as Inverter. It has one input A and one output Y.It rever
 
 ![](./img/tristate.jpg)
 
+Tri state buffer is a logical circuit or gate with one input one output and one control wire.Current only flows when the control wire is high; if the control wire is low then circuit switches to high impedance and restrict the current flow.
 
 # 6. What is the difference between sop and pos?
 
