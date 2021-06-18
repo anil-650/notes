@@ -89,7 +89,7 @@ Only returns true if both values are true.
 
 ### OR Gate
 A circuit which performs an OR operation is shown in figure. It has n input (n >= 2) and one output.
-Only returns true if 1 or both of the values are true
+Only returns true if 1 or both of the values are true.
 
 ![](./img/OR.jpg)
 
@@ -100,6 +100,9 @@ NOT gate is also known as Inverter. It has one input A and one output Y.It rever
 
 
 # 5. What is tristate buffer ?
+
+![](./img/tristate.jpg)
+
 
 # 6. What is the difference between sop and pos?
 
