@@ -52,9 +52,9 @@ i.e `printf`,`scanf`
 ex:24
 
 Decimal	----------->	2  4
-					   /    \
+	               /    \
 Position--->	8+4+2+1      8+4+2+1
-weight			   v			v
+weight	           v		v
 code	---->	0 0 1 0      0 1 0 0
 
 ```
@@ -74,7 +74,7 @@ code	---->	0 0 1 0      0 1 0 0
   The excess-3 codes are obtained as follows -
 
 ```
-								  ADD
+				  ADD
   Decimal Number------>8421 BCD---0011--------> Excess-3
 								  
 ```
