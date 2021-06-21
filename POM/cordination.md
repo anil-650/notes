@@ -35,3 +35,35 @@
 + Transport services 
 + Govt. policies 
 + Technology 
+
+# Methods of achieving Effective Co-ordination
+1. Observation
+1. Sound planning
+1. Effective communication
+1. Co-ordinator or Contact officer
+1. Open decision or Deliberation
+1. Effective motivation
+1. Liaison Officer
+1. Healthy Work Climate
+1. Suitable Organisational Structure
+
+# Importance of Effective Co-ordination
+1. Primary condition to succeed
+1. Handling Complexity
+1. Unity of objective & efforts
+1. Staff stability
+1. Balancing staff efforts
+1. Optimum use of resources
+1. Adopting with external environment
+1. Increasing company image
+1. Smooth & Un-destructive functioning
+
+# Requisite for excellent Co-ordination
+1. Direct Contact
+1. Early Start
+1. Continuity
+1. Dynamic
+1. Well defined Objective
+1. Simplified Organisation
+1. Clarity in Authority & Responsibility
+1. Effective Communication
