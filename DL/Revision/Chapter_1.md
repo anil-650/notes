@@ -79,3 +79,23 @@ code	---->	0 0 1 0      0 1 0 0
 								  
 ```
 
+## BCD (binary coded decimal) conversion
+
+How to convert from binary to decimal
+
+```
+Binary ----> decimal ----> BCD
+
+(10111)2 ----> (23)10 ----> 0010 0011 ----> (00100011)BCD
+
+```
+Convert to decimal first
+
++ needs to know LSB & MSB of a binary number
+	+ Least Significant Bit the left most bit
+	+ Most Significant Bit the right most bit
++ needs to know the weight of the binary bits
++ Weight increases from :arrow_left: to :arrow_right: starting from 0
+
+Decimal to BCD
++ Just assign the correct binary value of each digit in 4bits
