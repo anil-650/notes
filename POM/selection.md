@@ -2,7 +2,7 @@
 Screening and recruitment of the candidate
 
 
-```bash
+```
 Selection Process
 -------------------
 |-- Preliminary screening
