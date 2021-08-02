@@ -1,4 +1,4 @@
-# Delegation
+# [Deligation](./deligation.md)
 
 ----
 
