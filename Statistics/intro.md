@@ -59,6 +59,6 @@ Data Approach
 └── Quantitative Data(Numeric)
 ```
 
-ex: Qualitative data : Ram = A grade(degree)
-
-    Quantitative data : Ram = 85 marks(number)
+example:
+- Qualitative data : Ram = A grade(degree)
+- Quantitative data : Ram = 85 marks(number)
