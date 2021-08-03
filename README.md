@@ -8,3 +8,5 @@ Clg notes
 ## [Digital Logic](/DL)
 
 ## [POM](/POM)
+
+## [Statistics](/Statistics)
