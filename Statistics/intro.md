@@ -60,4 +60,5 @@ Data Approach
 ```
 
 ex: Qualitative data : Ram = A grade(degree)
+
     Quantitative data : Ram = 85 marks(number)
