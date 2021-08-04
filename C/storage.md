@@ -60,7 +60,7 @@ scope            : Local    init    : 0
 ```
 life             : as long as the code block exist
 storage location : CPU register      keyword : register
-scope            : Local    init    : garbage
+scope            : Local             init    : garbage
 ```
 
 ### External Storage Class
