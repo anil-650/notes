@@ -33,9 +33,11 @@ Storage class   keywords
 
 - By default Automatic S.C is assigned if not specified
 
-> life             : as long as the code block exist
-> storage location : RAM      keyword : auto
-> scope            : Local    init    : garbage
+```
+life             : as long as the code block exist
+storage location : RAM      keyword : auto
+scope            : Local    init    : garbage
+```
 
 ### Static Storage Class
 - Can be used within a func() or a file
@@ -43,9 +45,11 @@ Storage class   keywords
 - C++ allows both outside and inside usage
 - While having permanent values it's only visible to the fucn()
 
-> life             : as long as the code block exist
-> storage location : RAM      keyword : static
-> scope            : Local    init    : 0
+```
+life             : as long as the code block exist
+storage location : RAM      keyword : static
+scope            : Local    init    : 0
+```
 
 ### Register Storage Class
 - *'register'* stores values in CPU registers
@@ -53,15 +57,18 @@ Storage class   keywords
 - Not all values are eligible for storing in CPU registers
 - If CPU is out of *register space* it will move into **auto** class
 
-> life             : as long as the code block exist
-> storage location : CPU register      keyword : register
-> scope            : Local    init    : garbage
+```
+life             : as long as the code block exist
+storage location : CPU register      keyword : register
+scope            : Local    init    : garbage
+```
 
 ### External Storage Class
 - variable outside of the func() is taken as External 
 
-> life             : as long as the program exist
-> storage location : RAM      keyword : extrn
-> scope            : Global    init    : 0
-
+```
+life             : as long as the program exist
+storage location : RAM      keyword : extrn
+scope            : Global   init    : 0
+```
 
