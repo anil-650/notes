@@ -2,20 +2,19 @@
 - Basically refers to what's the life time of the variable once it's declared 
 
 1. Local        
-- only available inside functions
-- initiated to *Garbage*
+    - only available inside functions
+    - initiated to *Garbage*
 
 1. Global       
-- available inside the program 
-- initiated to 0
+    - available inside the program 
+    - initiated to 0
 
 1. Static       
-- initiated only once 
-- visible to the function
-- initiated to 0
-- value increments over the programs execution
-- syntax : static int var;
-int static var;
+    - initiated only once 
+    - visible to the function
+    - initiated to 0
+    - value increments over the programs execution
+    - syntax : static int var; int static var;
 
 # Storage :
 - All the variables in C are stored in a physical location; in CPU registers & RAM (main memory)
