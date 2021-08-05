@@ -6,6 +6,7 @@ By Eswar Reddy
 
 
 # Unit -2
+## [C i/o statements](./iostatements.md)
 ## [Function](./funtion.md)
 
 # Unit -3
