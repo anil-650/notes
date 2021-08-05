@@ -3,7 +3,8 @@ Function uses divide & conquer rule. Complicated task are successfully divide in
 
 - ***It is a block of self-contained sub program that is doing some specific well defined task.***
 - A big program can be decomposed into small functions.
-
+- Function increase readability
+- A C program must have a main()
 
 ## Function types: (2)
 1. Library function
