@@ -3,11 +3,11 @@ By Eswar Reddy
 ---
 
 # Unit -1
+## [C i/o statements](./iostatements.md)
 
 
 # Unit -2
-## [C i/o statements](./iostatements.md)
-## [Function](./funtion.md)
 
 # Unit -3
+## [Function](./funtion.md)
 ## [Storage](./storage.md)
