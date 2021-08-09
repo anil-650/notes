@@ -1,3 +1,120 @@
+# 1. Function types:
+
+<details>
+<summary>1. No Input  No  Return.</summary>
+
+```c
+//No Input  No  Return..
+#include<stdio.h>
+#include<conio.h>
+void add(void);
+void main()
+{
+    clrscr();
+    add();
+    getch();
+}
+void add()
+{
+    int num1,num2,sum=0;
+    printf("Enter Two Number.\n");
+    scanf("%d %d",&num1,&num2);
+    sum=num1+num2;
+    printf("Result=%d",sum);
+}
+
+```
+
+</details>
+
+<details>
+<summary>2. No Input  With  Return.</summary>
+
+```c
+//No Input  With  Return..
+#include<stdio.h>
+#include<conio.h>
+int add(void);
+void main()
+{
+    int result;
+    clrscr();
+    result=add();
+    printf("Result=%d",result);
+    getch();
+}
+int add(void)
+{
+    int num1,num2,sum=0;
+    printf("Enter Two Number.\n");
+    scanf("%d %d",&num1,&num2);
+    sum=num1+num2;
+    return sum;
+}		
+
+```
+
+</details>
+
+<details>
+<summary>3. Input But No  Return.</summary>
+
+```c
+// Input But No  Return..
+#include<stdio.h>
+#include<conio.h>
+void add(int,int);
+void main()
+{
+    int num1,num2;
+    clrscr();
+    printf("Enter Two Number.\n");
+    scanf("%d %d",&num1,&num2);
+    add(num1,num2);
+    getch();
+}
+void add(int a,int b)
+{
+    int sum;
+    sum=a+b;
+    printf("Result=%d",sum);
+}
+
+```
+
+</details>
+
+<details>
+<summary>4. Input With Return.</summary>
+
+```c
+// Input With Return..
+#include<stdio.h>
+#include<conio.h>
+int add(int,int);
+void main()
+{
+    int num1,num2,sum;
+    clrscr();
+    printf("Enter Two Number.\n");
+    scanf("%d %d",&num1,&num2);
+    sum=add(num1,num2);
+    printf("Result=%d",sum);
+    getch();
+}
+int add(int a,int b)
+{
+    int sum;
+    sum=a+b;
+    return sum;
+}	     
+
+```
+
+</details>
+
+# 2. Programs with function:
+
 <details>
 <summary>1. Armstrong Number using Function.</summary>
 
@@ -39,44 +156,7 @@ int armstrong(int num)
 </details>
 
 <details>
-<summary>2. Display Number From 1 to 10 using Recursion.</summary>
-
-```c
-
-//Display Number From 1 to 10 usinf Recursion.//
-
-
-#include<stdio.h>
-#include<conio.h>
-
-void main()
-{
-    int disp(int);
-
-    int n=1;
-    clrscr();
-    disp(n);
-}
-
-int disp(int n)
-{
-    if(n<0)
-        return 0;
-    else
-        if(n<=10)
-        {
-            printf("%d",n);
-            disp(n+1);
-        }
-    return 0;
-}    
-
-```
-
-</details>
-
-<details>
-<summary>3. Greatest among array using Function with Array.</summary>
+<summary>2. Greatest among array using Function with Array.</summary>
 
 ```c
 //Greatest among array using Function with Array.//
@@ -108,7 +188,7 @@ int large(int arr[],int n)
 </details>
 
 <details>
-<summary>4. Count Number of Digits using Function.</summary>
+<summary>3. Count Number of Digits using Function.</summary>
 
 ```c
 //Count Number of Digits using Function.//
@@ -145,7 +225,7 @@ int countdigit(int num)
 </details>
 
 <details>
-<summary>5. Reverse Of a Number using Function.</summary>
+<summary>4. Reverse Of a Number using Function.</summary>
 
 ```c
 //Reverse Of a Number using Function.//
@@ -182,7 +262,7 @@ int reverse(int num)
 </details>
 
 <details>
-<summary>6. Factorial of a Number using Function.</summary>
+<summary>5. Factorial of a Number using Function.</summary>
 
 ```c
 //Factorial of a Number using Function.//
@@ -216,71 +296,7 @@ int factorial(int num)
 </details>
 
 <details>
-<summary>7. Factorial of a Number using recursion.</summary>
-
-```c
-//Factorial of a Number using recursion.//
-
-#include<stdio.h>
-#include<conio.h>
-main()
-
-{
-    int a, fact;
-    printf("\nEnter any number: ");
-    scanf ("%d", &a);
-    fact=rec (a);
-    printf("\nFactorial Value = %d", fact);
-    getch();
-    return 0;
-}
-rec (int x)
-{
-    int f;
-    if (x==1)
-        return (1);
-    else
-        f=x*rec(x-1);
-    return (f);
-}
-```
-
-</details>
-
-<details>
-<summary>8. Swapping program using call By address/call by pointer.</summary>
-
-```c
-//swapping program using call By address/call by pointer.//
-
-
-#include <stdio.h>
-#include <conio.h>
-void swap(int* ,int*);
-void main()
-{
-    int a = 23, b = 47;
-    clrscr();
-    printf("Before. a: %d, b: %d\n", a, b);
-    swap(&a, &b);
-    printf("After . a: %d, b: %d\n", a, b);
-    getch();
-}
-
-void swap(int *i, int *j)
-{
-    int t = *i;
-    *i = *j;
-    *j = t;
-
-}
-
-```
-
-</details>
-
-<details>
-<summary>9. Function  With Array..(Display sum of Elements).</summary>
+<summary>6. Function  With Array..(Display sum of Elements).</summary>
 
 ```c
 //Function  With Array..(Display sum of Elements)//
@@ -323,64 +339,117 @@ int add(int num[],int n)
 </details>
 
 <details>
-<summary>10. Input But No  Return.</summary>
+<summary>7. Prime Factors of a Number.</summary>
 
 ```c
-// Input But No  Return..
-#include<stdio.h>
+//Prime Factors of a Number.//
+#include <stdio.h>
 #include<conio.h>
-void add(int,int);
+
+void primefact(int num);
+
 void main()
 {
-    int num1,num2;
+
+    int num;
     clrscr();
-    printf("Enter Two Number.\n");
-    scanf("%d %d",&num1,&num2);
-    add(num1,num2);
+    printf("Enter Number.\n");
+    scanf("%d",&num);
+    primefact(num);
+
     getch();
 }
-void add(int a,int b)
+
+void primefact(int num)
 {
-    int sum;
-    sum=a+b;
-    printf("Result=%d",sum);
+    int i;
+    for(i=2;num!=1;i++)
+    {
+        while(num%i==0)
+        {
+            printf("%d \n",i);
+            num=num/i;
+        }
+    }
 }
 
 ```
 
 </details>
 
+# 3. Programs with Recursion:
+
 <details>
-<summary>11. Input With Return.</summary>
+<summary>1. Display Number From 1 to 10 using Recursion.</summary>
 
 ```c
-// Input With Return..
+
+//Display Number From 1 to 10 usinf Recursion.//
+
+
 #include<stdio.h>
 #include<conio.h>
-int add(int,int);
+
 void main()
 {
-    int num1,num2,sum;
+    int disp(int);
+
+    int n=1;
     clrscr();
-    printf("Enter Two Number.\n");
-    scanf("%d %d",&num1,&num2);
-    sum=add(num1,num2);
-    printf("Result=%d",sum);
-    getch();
+    disp(n);
 }
-int add(int a,int b)
+
+int disp(int n)
 {
-    int sum;
-    sum=a+b;
-    return sum;
-}	     
+    if(n<0)
+        return 0;
+    else
+        if(n<=10)
+        {
+            printf("%d",n);
+            disp(n+1);
+        }
+    return 0;
+}    
 
 ```
 
 </details>
 
 <details>
-<summary>12. LCM & HCF  of two Numbers Using recursion.</summary>
+<summary>2. Factorial of a Number using recursion.</summary>
+
+```c
+//Factorial of a Number using recursion.//
+
+#include<stdio.h>
+#include<conio.h>
+main()
+
+{
+    int a, fact;
+    printf("\nEnter any number: ");
+    scanf ("%d", &a);
+    fact=rec (a);
+    printf("\nFactorial Value = %d", fact);
+    getch();
+    return 0;
+}
+rec (int x)
+{
+    int f;
+    if (x==1)
+        return (1);
+    else
+        f=x*rec(x-1);
+    return (f);
+}
+```
+
+</details>
+
+<details>
+<summary>3. LCM & HCF  of two Numbers Using recursion.</summary>
 
 ```c
 //LCM & HCF  of two Numbers Using recursion.//
@@ -431,63 +500,7 @@ int lcm(int a,int b)
 </details>
 
 <details>
-<summary>13. No Input  No  Return.</summary>
-
-```c
-//No Input  No  Return..
-#include<stdio.h>
-#include<conio.h>
-void add(void);
-void main()
-{
-    clrscr();
-    add();
-    getch();
-}
-void add()
-{
-    int num1,num2,sum=0;
-    printf("Enter Two Number.\n");
-    scanf("%d %d",&num1,&num2);
-    sum=num1+num2;
-    printf("Result=%d",sum);
-}
-
-```
-
-</details>
-
-<details>
-<summary>14. No Input  With  Return.</summary>
-
-```c
-//No Input  With  Return..
-#include<stdio.h>
-#include<conio.h>
-int add(void);
-void main()
-{
-    int result;
-    clrscr();
-    result=add();
-    printf("Result=%d",result);
-    getch();
-}
-int add(void)
-{
-    int num1,num2,sum=0;
-    printf("Enter Two Number.\n");
-    scanf("%d %d",&num1,&num2);
-    sum=num1+num2;
-    return sum;
-}		
-
-```
-
-</details>
-
-<details>
-<summary>15. Prime Factors of a Number Using Recursion.</summary>
+<summary>4. Prime Factors of a Number Using Recursion.</summary>
 
 ```c
 //Prime Factors of a Number Using Recursion.//
@@ -529,7 +542,7 @@ void primefact(int num)
 </details>
 
 <details>
-<summary>16. Reverse of a Number using recursion.</summary>
+<summary>5. Reverse of a Number using recursion.</summary>
 
 ```c
 //Reverse of a Number using recursion//
@@ -569,7 +582,7 @@ void reverse(int n)
 </details>
 
 <details>
-<summary>17. Count Digits using Recursion.</summary>
+<summary>6. Count Digits using Recursion.</summary>
 
 ```c
 //Count Digits using Recursion//
@@ -609,46 +622,7 @@ int countdigit(int num)
 </details>
 
 <details>
-<summary>18. Prime Factors of a Number.</summary>
-
-```c
-//Prime Factors of a Number.//
-#include <stdio.h>
-#include<conio.h>
-
-void primefact(int num);
-
-void main()
-{
-
-    int num;
-    clrscr();
-    printf("Enter Number.\n");
-    scanf("%d",&num);
-    primefact(num);
-
-    getch();
-}
-
-void primefact(int num)
-{
-    int i;
-    for(i=2;num!=1;i++)
-    {
-        while(num%i==0)
-        {
-            printf("%d \n",i);
-            num=num/i;
-        }
-    }
-}
-
-```
-
-</details>
-
-<details>
-<summary>19. Sum of Digits of a Number Using recursion.</summary>
+<summary>7. Sum of Digits of a Number Using recursion.</summary>
 
 ```c
 //Sum of Digits of a Number Using recursion//
@@ -686,4 +660,38 @@ int sum(int num)
 
 </details>
 
+
+# 4. Pointer calling:
+
+<details>
+<summary>1. Swapping program using call By address/call by pointer.</summary>
+
+```c
+//swapping program using call By address/call by pointer.//
+
+
+#include <stdio.h>
+#include <conio.h>
+void swap(int* ,int*);
+void main()
+{
+    int a = 23, b = 47;
+    clrscr();
+    printf("Before. a: %d, b: %d\n", a, b);
+    swap(&a, &b);
+    printf("After . a: %d, b: %d\n", a, b);
+    getch();
+}
+
+void swap(int *i, int *j)
+{
+    int t = *i;
+    *i = *j;
+    *j = t;
+
+}
+
+```
+
+</details>
 
