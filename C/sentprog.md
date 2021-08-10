@@ -113,6 +113,9 @@ int add(int a,int b)
 
 </details>
 
+
+<br>
+
 # 2. Programs with function:
 
 <details>
@@ -376,6 +379,8 @@ void primefact(int num)
 ```
 
 </details>
+
+<br>
 
 # 3. Programs with Recursion:
 
@@ -660,6 +665,7 @@ int sum(int num)
 
 </details>
 
+<br>
 
 # 4. Pointer calling:
 
