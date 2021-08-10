@@ -1,5 +1,5 @@
 # Subject : C++
-by Alock Nath
+by *Mr. Alock Nath*
 
 ---
 
