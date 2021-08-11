@@ -9,3 +9,12 @@
 - **Protected**
 
 > By default all classes are Private if not specified.
+
+*Syntax:*
+
+```c
+void class student {
+     class public:
+
+}
+```
