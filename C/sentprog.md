@@ -665,7 +665,7 @@ int sum(int num)
 
 </details>
 
-<br>
+<br>                                    
 
 # 4. Pointer calling:
 
