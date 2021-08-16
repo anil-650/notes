@@ -11,7 +11,7 @@ class circle {
     float r, a, p;
     public:
     void rad() {
-        cout << "Enter radius od the circle\n";
+        cout << "Enter radius of the circle\n";
         cin >> r;
         cout << "\nRadius of the circle : " << r << endl;
     }
