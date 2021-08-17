@@ -1,4 +1,4 @@
-# What is statistics ? Discuss the importance of statistics int the field of management & computer science.
+# What is statistics ? discuss the importance of statistics int the field of management & computer science.
 ***Statistic is branch of mathematics which deals with the collection of data analysis of data and interpretation of data so statistics is the major interpretation in all type of disciplines.***
 
 - The main aspects of statistics to justify the effectiveness and efficiency of the data interpretation.
