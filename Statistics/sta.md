@@ -3,18 +3,21 @@
 
 - The main aspects of statistics to justify the effectiveness and efficiency of the data interpretation.
 - the major characteristics of statistics is basically
-1. numerical data/facts
-1. aggregate of facts
+1. **Numerical data/facts**
+1. **Aggregate of facts**
    - statistics are affected to the market extended by multiplicity of factors 
    - statistics of data refers of measurement of data in complex situation 
 
      *example:*
     
-         bushiness or economics phenomena are vary complex in the sense that there are a large no. of factors operating simultaneously at a given point of time.
+         bushiness or economics phenomena are 
+         vary complex in the sense that there 
+         are a large no. of factors operating 
+         simultaneously at a given point of time.
      most of the factors ar difficult to apply there fore data collection is the major condition in extend to market.
-1. Standard of accuracy
-1. Systematic manner / pre determined propose
-1. Maintain relationship to each other 
+1. **Standard of accuracy**
+1. **Systematic manner / pre determined propose**
+1. **Maintain relationship to each other** 
 
 ## Numerical data/facts
 - Any set of facts can be called as statistics or data
