@@ -14,7 +14,7 @@
          vary complex in the sense that there 
          are a large no. of factors operating 
          simultaneously at a given point of time.
-     most of the factors ar difficult to apply there fore data collection is the major condition in extend to market.
+     most of the factors ar difficult to apply therefore data collection is the major condition in extend to market.
 1. **Standard of accuracy**
 1. **Systematic manner / pre determined propose**
 1. **Maintain relationship to each other** 
