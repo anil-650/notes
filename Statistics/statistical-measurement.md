@@ -20,7 +20,7 @@ $$
 \bar{x} = \frac{x_1 + x_2 + ......+x_n}{n}
 $$
 
-![](./img/formula-am-mean1)
+![](./img/formula-am-mean1.svg)
 
 or
 
@@ -28,4 +28,4 @@ $$
 \bar{x} = \frac{\sum^{n}_{i=1}}{n}
 $$
 
-![](./img/formula-am-mean2)
+![](./img/formula-am-mean2.svg)
