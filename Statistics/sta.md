@@ -65,7 +65,7 @@ basicaly dtat are classi fied into 4 catagory*
 1. Spatial classification
 -  based on location or place
 
-| qualitative data | quantitative data |
+| Qualitative data | Quantitative data |
 |-----------------|------------------|
 | is numeric form| is not in numeric form |
 | measurable | not measurable |
