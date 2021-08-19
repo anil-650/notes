@@ -57,18 +57,18 @@ i.e.  honesty color beauty etc.
 *Data means information. statistics always uses the raw data before using the statistical methon its used in redefiend form  
 basicaly dtat are classi fied into 4 catagory*
 1. Quantitative classification
-- based on value or quantity
+   - based on value or quantity
 1. Quantitative classified
- - based attribute or status
+   - based attribute or status
 1. Temporal classification
-- based on time
+   - based on time
 1. Spatial classification
--  based on location or place
+   - based on location or place
 
-| Qualitative data | Quantitative data |
-|-----------------|------------------|
-| is numeric form| is not in numeric form |
-| measurable | not measurable |
-| provides a fixed result| doesn't provide fixed results |
-| deductive in nature | inductive in nature |
-| precise and numerical presentation| descriptive in nature |
+| Qualitative data                  | Quantitative data              |
+|-----------------------------------|--------------------------------|
+| is numeric form                   | is not in numeric form         |
+| measurable                        | not measurable                 |
+| provides a fixed result           | doesn't provide fixed results  |
+| deductive in nature               | inductive in nature            |
+| precise and numerical presentation| descriptive in nature          |
