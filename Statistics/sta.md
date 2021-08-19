@@ -55,7 +55,7 @@ i.e.  honesty color beauty etc.
 
 # What are difference between qualitative and quantitative data
 *Data means information. statistics always uses the raw data before using the statistical methon its used in redefiend form  
-basicaly dtat are classi fied into 4 catagory*
+basicaly data are classified into 4 catagory*
 1. Quantitative classification
    - based on value or quantity
 1. Quantitative classified
@@ -67,7 +67,7 @@ basicaly dtat are classi fied into 4 catagory*
 
 | Qualitative data                  | Quantitative data              |
 |-----------------------------------|--------------------------------|
-| is numeric form                   | is not in numeric form         |
+| is in numeric form                | is not in numeric form         |
 | measurable                        | not measurable                 |
 | provides a fixed result           | doesn't provide fixed results  |
 | deductive in nature               | inductive in nature            |
