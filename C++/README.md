@@ -8,4 +8,4 @@ by *Mr. Alock Nath*
 - [CLASS]()
 # Unit -3
 
-# [Assingments](./assingment.md)
+# [Assignments](./assignment.md)
