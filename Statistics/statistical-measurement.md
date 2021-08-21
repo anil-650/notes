@@ -158,7 +158,7 @@ $$
 \bar{x}=\frac{\sum fiMi}{\sum fi}
 $$
 
-> example: p.s. below  in the table its not '-' minus
+> example:
 
 | x       | f |
 |---------|---|
