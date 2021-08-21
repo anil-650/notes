@@ -222,3 +222,54 @@ $$
 | 21-25 | 2 | 20.5-25.5 | (20.5+25.5)/2 = 23 | 46  |
 | 26-30 | 3 | 25.5-30.5 | (25.5+30.5)/2 = 28 | 84  |
 |       |11 |           |                    | 203 |
+
+
+
+$\bar{x}= \frac{203}{11}= 18.454$
+
+
+## Shortcut Method :
+
+> RAW Type Data :
+
+x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>...........x<sub>n</sub> with n no. of data
+
+> a = assumed mean
+> d = x<sub>i</sub> - a
+
+$\bar{x}= a + \frac{\sum d}{n}$
+
+    example:
+        5, 7, 9, 11, 13, 15 find x bar with shortcut method
+
+> Ans:
+
+5, 7, 9, 11, 13, 15 // take an assumption of the minimum average
+
+let a = 11
+
+
+|  x | a  | d=x-a |
+|----|----|-------|
+| 5  | 11 |  -6   |
+| 7  | 11 |  -4   |
+| 9  | 11 |  -2   |
+| 11 | 11 |   0   |
+| 13 | 11 |   2   |
+| 15 | 11 |   4   |
+
+$\sum d = -6$
+
+$$
+\bar{x} = a + \frac{\sum d}{n}
+
+        = 11 + \frac{-6}{6}
+
+        = \frac{66-6}{6}
+
+        = \frac{60}{6}
+
+        = 10
+
+\bar{x} = 10
+$$
