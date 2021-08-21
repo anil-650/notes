@@ -239,7 +239,7 @@ x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>...........x<sub>n</sub> with n no. o
 > a = assumed mean
 > d = x<sub>i</sub> - a
 
-$\bar{x}= a + \frac{\sum d}{n}$
+$$\bar{x}= a + \frac{\sum d}{n}$$
 
     example:
         5, 7, 9, 11, 13, 15 find x bar with shortcut method
