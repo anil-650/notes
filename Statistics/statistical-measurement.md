@@ -369,3 +369,59 @@ $$
 |         | 10 |                      |           | 5   |
 
 let 12.5 be assumed mean
+
+*figure-7.1*
+
+$$
+\bar{x} = a +\frac{\sum fd}{\sum f} \, \times i \\ \ \\
+= 12.5+\frac{5}{10} \times 5 \\ \ \\
+= \frac{125+5}{10} \times 5 \\ \ \\
+= \frac{13\cancel 0}{1\cancel 0} \times 5 \\ \ \\
+= 65
+$$
+
+
+## Median :
+
+***Median is the middle most value of the obervation***
+
+suppose *n = no. of data*
+
+<br><br>
+
+*figure-8*
+
+$if \quad n = odd$
+$$
+middle\ value =\frac{n+1^{th}}{2} \\ \ \\
+M = \bigg(\frac{n+1}{2}\bigg)^{th}
+$$
+
+*figure-8.1*
+
+$if \quad n = even$
+$$
+middle\ value =\frac{n^{th}}{2} \\ \ \\
+m_1 = \frac{n}{2}^{th}          \\ \ \\
+m_2 = \frac{n}{2}^{th} +1       \\ \ \\
+M = \frac{m_1 + m_2}{2}^{th}
+$$
+
+    example:
+        5, 3, 2, 6, 7, 8, 9
+
+> Ans :
+
+first sort them in either accending or decending order
+
+2, 3, 5. 6, 7, 8, 9
+
+n = 7
+
+$$
+M = \bigg(\frac{n+1}{2} \bigg)^{th}
+= \bigg(\frac{7+1}{2} \bigg)^{th}
+= \bigg(\frac{8}{2} \bigg)^{th}
+= 4^{th} \\ \ \\
+Md = 6
+$$
