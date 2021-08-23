@@ -16,6 +16,8 @@ let <var>x<sub>1</sub> ,x<sub>2</sub> ...........x<sub>n</sub></var> are the *n*
 
 then 
 
+*figure-1*
+
 <!--     Latex formule for it
 $$
 \bar{x} = \frac{x_1 + x_2 + ......+x_n}{n}
@@ -25,6 +27,10 @@ $$
 ![](./img/formula-am-mean1.svg)
 
 > OR
+
+*figure-1.1*
+
+
 
 <!--   Latex formule for it
 $$
@@ -36,6 +42,8 @@ $$
 
     example:
         5,7,9,10,15 find mean
+
+*figure-1.1*
 
 $$
 \bar{x} = \frac{5+7+9+10+15}{5}= \frac{45}{5} = 9.2
@@ -49,8 +57,10 @@ $$
 
 let <var>x<sub>1</sub> ,x<sub>2</sub> ...........x<sub>n</sub> numbers having f<sub>1</sub> ,f<sub>2</sub> ...........f<sub>n</sub></var> be coresponding frequencies
 
+*figure-2*
 
-| $x$ | $f$ | $xf$ |
+
+| $x$             | $f$             | $xf$             |
 |-----------------|-----------------|------------------|
 |      $x_1$      |      $f_1$      |     $x_1 f_1$    |
 |      $x_2$      |      $f_2$      |     $x_2 f_2$    |
@@ -61,11 +71,16 @@ let <var>x<sub>1</sub> ,x<sub>2</sub> ...........x<sub>n</sub> numbers having f<
 
 > *formula* :
 
+*figure-2.1*
+
+
 $$
 \bar{x} = \frac{x_1 f_1+ x_2 f_2+ ......+x_n f_n}{n}
 $$
 
 > OR
+
+*figure-2.2*
 
 $$
 \bar{x} = \frac{\sum^{n}_{i=1} fi xi}{\sum^{n}_{i=1} fi}
@@ -90,6 +105,8 @@ $$
 |total|17 | 141|
 
 <br><br>
+
+*figure-2.3 *
 
 $$
 \bar{x}=\frac{\sum fx}{\sum f}=\frac{141}{17}=8.29
@@ -138,6 +155,9 @@ x<sub>2</sub>-x<sub>3</sub> --- x<sub>n-1</sub> - x<sub>n</sub></var> be the int
 
 > formule:
 
+*figure-3.0*
+
+
 | x               | f         | M(middle value)               | fM          |
 |-----------------|-----------|-------------------------------|-------------|
 | $x_1 - x_2$     | $f_1$     | $\frac{x_1 + x_2}{2} = m_1 $  | $f_1 m_1$   |
@@ -148,11 +168,15 @@ x<sub>2</sub>-x<sub>3</sub> --- x<sub>n-1</sub> - x<sub>n</sub></var> be the int
 
 <br><br>
 
+*figure-3.1*
+
 $$
 \bar{x}=\frac{f_1 M_1+f_2 M_2+f_3 M_3...+f_n M_n}{f_1+f_2+f_3...+f_n}
 $$
 
 <br>
+
+*figure-3.2*
 
 $$
 \bar{x}=\frac{\sum fiMi}{\sum fi}
@@ -179,6 +203,8 @@ $$
 | 25---30 | 1 | (25+30)/2 = 25.5  | 25.5  |
 |       |12 |                   | 205.0 |
 
+*figure-4.3*
+
 $$
 \bar{x}=\frac{\sum fM }{\sum f} = \frac{ 205 }{12} =17.083 
 $$
@@ -186,6 +212,8 @@ $$
 - try keeping precision to 3
 
 ### Discontinuous type of data
+
+*figure-4*
 
 | x               | f      |
 |-----------------|--------|
@@ -197,6 +225,8 @@ $$
 > Discontinuous type data must be converted to continuous type  
 > which means to introduce an ***Adjusting Factor***  
 > Then it should subtract from **lower** limit and add to the **upper** limit
+
+*figure-4.2*
 
 $$
 AF = \frac{x_3 - x_2}{2}
@@ -226,6 +256,7 @@ $$
 |       |11 |           |                    | 203 |
 
 
+*figure-4.4*
 
 $\bar{x}= \frac{203}{11}= 18.454$
 
@@ -238,6 +269,8 @@ x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>...........x<sub>n</sub> with n no. o
 
 > a = assumed mean
 > d = x<sub>i</sub> - a
+
+*figure-5*
 
 $$\bar{x}= a + \frac{\sum d}{n}$$
 
@@ -262,9 +295,13 @@ let a = 11
 
 <br><br>
 
+*figure-5.1*
+
 $\sum d = -6$
 
 <br>
+
+*figure-5.2*
 
 $\bar{x} = a + \frac{\sum d}{n}$
 
@@ -277,3 +314,58 @@ $\bar{x} = a + \frac{\sum d}{n}$
    $= 10$
 
 $\bar{x} = 10$
+
+## Shortcut Method : Frequency type data
+
+let <var>x<sub>1</sub> ,x<sub>2</sub> ...........x<sub>n</sub> numbers having f<sub>1</sub> ,f<sub>2</sub> ...........f<sub>n</sub></var> be respective frequencies
+
+> then a = assumed mean
+
+*figure-6*
+
+$$
+\bar{x} = \frac{\sum fd}{\sum f}
+$$
+
+${\footnotesize f = frequency }\\ {\footnotesize d = x-a }\\{\footnotesize a = assumed\ mean}$
+
+> Ans: Let a = 11
+
+| x  | f  | d = x-a | fd  |
+|----|----|---------|-----|
+| 5  | 3  | -6      | -18 |
+| 7  | 4  | -4      | -16 |
+| 9  | 1  | -2      | -2  |
+| 11 | 3  |  0      |  0  |
+| 12 | 2  |  1      |  2  |
+| 15 | 1  |  2      |  2  |
+|    | 14 |         | -32  |
+
+*figure-6.1*
+
+$$
+\bar{x} = \frac{\sum fd}{\sum f}
+
+= 11+\frac{-32}{14} \ 
+= \frac{154-32}{14} \\ \ \\
+= \frac{122}{14}    \\ \ \\
+= 8.714
+$$
+
+## Shortcut Method : Group type data
+
+*figure-7*
+
+$$
+\bar{x} = \frac{\sum fd}{\sum f} \, \times \, i {\footnotesize \qquad i=class\,size}
+$$
+
+| x       | f  | M                    | d _ M-a   | fd  |
+|---------|----|----------------------|-----------|-----|
+| 5---10  | 3  | (5+10)/2 = 7.5       | 7.5-12.5  | -15 |
+| 10---15 | 4  | (10+15)/2 = 12.5 (A) | 12.5-12.5 | 0   |
+| 15---20 | 2  | (15+20)/2 = 17.5     | 17.5-12.5 | 10  |
+| 20---25 | 1  | (20+25)/2 = 22.5     | 22.5-12.5 | 10  |
+|         | 10 |                      |           | 5   |
+
+let 12.5 be assumed mean
