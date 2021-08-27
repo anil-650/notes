@@ -13,3 +13,6 @@ Questions:
 1. Write a program  to input 4 subject numbers sum and avg & print it
 1. Write a program  to convert Celsius to Fahrenheit with class and obj
 1. Write a program  to convert Celsius to Fahrenheit with class and obj
+
+## [26/08/2021](./asg/asg-26082021.md)
+1. Write a program to add 2 no. with member function in and out side of class
