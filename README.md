@@ -1,3 +1,12 @@
+## 3rd sem :-
+
+# [JAVA](./JAVA)
+
+# [Python](./PYTHON)
+
+---
+
+## 1st sem :-
 
 # [C](./C)
 
