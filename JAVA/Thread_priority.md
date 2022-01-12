@@ -1,4 +1,5 @@
 # 10/01/2022
+
 ## Thread priority in JAVA
 
 - Is a number assigned to a thread. This is used by `thread selector` that which Thread should be executed.
