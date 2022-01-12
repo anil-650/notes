@@ -16,7 +16,30 @@ MAX_PRIORITY=10
 - Thread execution happens on *FCFS(First Come First Serve)* basis ; selected and executed by JVM.
 - `getPriority()` gives you the Thread priority.
 
-example: 
-```java
+example:
 
+```java
+public class A implements Runnable
+{
+    public void run()
+    {
+        System.out.println(Thread.currentThred()); //This method is static
+    }
+
+    public static viod main(String[] args)
+    {
+        A a =new A();
+        Thread t = new Thread(a "NewThread");
+        System.out.println("Priority of Thread:"+getPriority());
+        System.out.println("Name of Thread:"+getName());        
+        t.start();
+    }
+}
+```
+
+```sh
+Output:
+    Priority of Thread: 5
+    Name of Thread: New Thread
+    Thread[NewThread,5,main]
 ```
