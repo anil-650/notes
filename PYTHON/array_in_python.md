@@ -14,3 +14,13 @@ print(cars)
 print(cars[1])
 # output : BMW
 ```
+
+# 17/01/2022
+
+```py
+# print length of array using len()
+
+x = len(cars)
+print(x)
+# output: 3
+```
