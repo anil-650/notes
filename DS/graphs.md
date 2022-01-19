@@ -7,14 +7,24 @@
 
 + the graph is made up of vertices (nodes) that are connected by the edges (lines).
 
-```bash
-	     ___edge
-	    /
-	O-------O
-	|	|\
-	|	| \___node
-	|	|
-	O-------O
+```
+
+┌───┐                     ┌───┐
+│ A ├─────────────────────┤ B ├───►  Nodes
+└─┬─┘                     └─┬─┘
+  │                         │
+  │                         │
+  │                         │
+  │                         │
+  │                         │
+  │                         │◄────── Edges
+  │                         │
+  │                         │
+  │                         │
+  │                         │
+┌─┴─┐                     ┌─┴─┐
+│ D ├─────────────────────┤ C │
+└───┘                     └───┘
 	
 	figure-1
 ```
@@ -36,13 +46,44 @@
   + A directed graph is a graph made up of a set of vertices connected by ages in which the ages half direction.
   + It's a unidirectional graph.
 
-```bash
-	(A)--------->(B)
-	 ^	     /
-	  \	    /
-	   \ 	   /
-	    \     /
-	     \   /
-	      \ v
-	      (C)
+```
+
+┌───┐                  ┌───┐
+│ A └─────────────────►│ B │
+└───▲                  └───┘
+    \                   /
+     \                 /
+      \               /
+       \             /
+        \           /
+         \         /
+          \       /
+ 		   \     /
+            ┌───▼
+            │ C │
+            └───┘
+
+		  figure-2.0
+```
+
+2. Undirected Graph
+
+```
+
+┌───┐                   ┌───┐
+│ A ├───────────────────┤ B │
+└───┘                   └───┘
+     \                   /
+      \                 /
+       \               /
+        \             /
+         \           /
+          \         /
+           \       /
+			\     /
+             ┌───┐
+             │ C │
+             └───┘
+
+		   figure-2.1
 ```
