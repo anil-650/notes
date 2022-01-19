@@ -43,7 +43,7 @@
   2. Undirected graphs
 
 1. Directed graphs
-  + A directed graph is a graph made up of a set of vertices connected by ages in which the ages half direction.
+  + A directed graph is a graph made up of a set of vertices connected by ages in which the ages have direction.
   + It's a unidirectional graph.
 
 ```
@@ -67,6 +67,7 @@
 ```
 
 2. Undirected Graph
+  + A directed graph is a graph made up of a set of vertices connected by ages in which the ages have direction.
 
 ```
 
@@ -87,3 +88,5 @@
 
 		   figure-2.1
 ```
+
+

@@ -4,6 +4,8 @@
 
 # [Python](./PYTHON)
 
+# [DS](./DS)
+
 ---
 
 ## 1st sem :-
