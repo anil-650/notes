@@ -94,11 +94,11 @@
 
 ### Types of Graphs
 
-1. [Null graph](###-null-graph)
-2. [Simple graph](###-simple-graph)
-3. [Multi graph](###-multi-graph)
-4. [Connected and Disconnected graph](###-connected-and-disconnected-graph)
-5. [Cycle graph](###-cycle-graph)
+1. [Null graph](#null-graph)
+2. [Simple graph](#simple-graph)
+3. [Multi graph](#multi-graph)
+4. [Connected and Disconnected graph](#connected-and-disconnected-graph)
+5. [Cycle graph](#cycle-graph)
 
 ---
 
