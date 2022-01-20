@@ -36,7 +36,7 @@
   + **V = Vertices**
   + **E = Edges**
 
-### Types of Graphs
+### Types of Graphs by Edge direction
 
 + Graphs are divided into two types
   1. Directed graphs
@@ -67,7 +67,7 @@
 ```
 
 2. Undirected Graph
-  + A directed graph is a graph made up of a set of vertices connected by ages in which the ages have direction.
+  + A directed graph is a graph made up of a set of vertices connected by edges in which the edges are bidirectional.
 
 ```
 
@@ -89,4 +89,4 @@
 		   figure-2.1
 ```
 
-
+### Types of Graphs
