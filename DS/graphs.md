@@ -90,3 +90,50 @@
 ```
 
 ### Types of Graphs
+
+1. Null graph
+2. Simple graph
+3. Multi graph
+4. Connected and Disconnected graph
+5. Cycle graph
+
+---
+
+1. Null Graph
++ A graph that doesn't have any edges is called a Null graph.
+
+```
+figure-2.2
+```
+
+2. Simple graph
++ A graph that is undirected, doesn't have any loops & multiple paths between the vertices is called a Simple graph.
+
+```
+figure-2.3
+```
+
+3. Multi graph
++ A graph with multiple edges between the same set of vertices and if it has loop then we call it a Multi graph.
+
+```
+figure-2.4
+```
+
+4. Connected and Disconnected graph
++ Whether the vertices of the graph are connected or not the decides if it is a Connected graph or Disconnected graph.
+
+```
+figure-2.5
+```
+
+5. Cycle graph
++ A graph which from a cycle is called as a cycle graph, where it has a single cycle.
+
++ When the graph ends up as the same node it started it's called a cycle graph.
+
+```
+figure-2.6
+```
+
+
