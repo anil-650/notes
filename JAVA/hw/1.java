@@ -1,26 +1,34 @@
 // 1. WAP to calculate simple interest with function
 import java.util.Scanner;
 
-class s_interest {
-  public static void main(String[] args) {
+class s_interest{
 
-    Scanner input = new Scanner(System.in);
+    public static float interest(float a, float b, float c)
+    {
+        float i = (a*b*c)/100;
+        return i;
+    }
 
-    System.out.print("Enter the principal: ");
-    float principal = input.nextFloat();
+    public static void main(String[] args){
 
-    System.out.print("Enter the rate: ");
-    float rate = input.nextFloat();
 
-    System.out.print("Enter the time: ");
-    float time = input.nextFloat();
+        Scanner input = new Scanner(System.in);
 
-    float interest = (principal * time * rate) / 100;
+        System.out.print("Enter the principal: ");
+        float principal = input.nextFloat();
 
-    System.out.println("Principal: " + principal);
-    System.out.println("Interest Rate: " + rate);
-    System.out.println("Time Duration: " + time);
-    System.out.println("Simple Interest: " + interest);
+        System.out.print("Enter the rate: ");
+        float rate = input.nextFloat();
 
-  }
+        System.out.print("Enter the time: ");
+        float time = input.nextFloat();
+
+        float sm_in = interest(principal,rate,time);
+
+        System.out.println("Principal: " + principal);
+        System.out.println("Interest Rate: " + rate);
+        System.out.println("Time Duration: " + time);
+        System.out.println("Simple Interest: " + sm_in);
+
+    }
 }
