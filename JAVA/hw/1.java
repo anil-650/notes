@@ -12,16 +12,16 @@ class s_interest{
     public static void main(String[] args){
 
 
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the principal: ");
-        float principal = input.nextFloat();
+        float principal = sc.nextFloat();
 
         System.out.print("Enter the rate: ");
-        float rate = input.nextFloat();
+        float rate = sc.nextFloat();
 
         System.out.print("Enter the time: ");
-        float time = input.nextFloat();
+        float time = sc.nextFloat();
 
         float sm_in = interest(principal,rate,time);
 
@@ -29,6 +29,8 @@ class s_interest{
         System.out.println("Interest Rate: " + rate);
         System.out.println("Time Duration: " + time);
         System.out.println("Simple Interest: " + sm_in);
+
+        sc.close();
 
     }
 }

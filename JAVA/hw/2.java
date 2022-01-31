@@ -3,20 +3,20 @@ import java.util.Scanner;
 
 class Square{
 
-    public static float area(float a){
+    public static void area(float a){
         float b = a*a;
-        return b;
+        System.out.println("Area of Square: " + b);
     }
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter arm length: ");
+        System.out.print("Enter Square's arm length: ");
         float arm = sc.nextFloat();
 
-        float sq_area = area(arm);
+        area(arm);
 
-        System.out.println("Area of Square: " + sq_area);
+        sc.close();
     }
 
 }
