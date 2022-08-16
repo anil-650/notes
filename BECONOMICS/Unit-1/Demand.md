@@ -27,7 +27,7 @@ $$
 - According to the law of demand, the factors remaining the same, if price of a commodity falls, quantity demand of said commodity will rise; if price of the commodity rises the quantity demand of said commodity will decrease.
 > **There is an inverse and opposite relationship between price and demand.**
 
-- Individual demand schedule
+### Individual demand schedule
 
 |Price|Quantity demand|
 |:---:|:-------------:|
@@ -36,4 +36,24 @@ $$
 |₹3   |       5       |
 |₹2   |       8       |
 
-<!-----------Graph Scpace----------->
+<!-----------Graph Space---------->
+
+### Market Demand Curve
+
+- The Market Demand Curve is the sum total of the Individual Demand Curves.
+- The sum total of demand of consumers of that given product at that given time.
+
+| Price | Consumer A | Consumer B | Consumer C | Market Demand of               |
+|:-----:|:----------:|:----------:|:----------:|:------------------------------:|
+| 10    | 1          | 2          | 3          | At price 10 market demand is 6 |
+| 8     | 2          | 3          | 5          | At price 8 market demand is 10 |
+| 5     | 3          | 5          | 8          | At price 5 market demand is 16 |
+
+<!-----------Graph Space---------->
+
+### Exception Cases
+
+- Emergency times
+- Necessities of Life (Life saving Meds)
+- Speculation (If people are convinced that if a products price going to be very high, they will not bother for the price)
+
