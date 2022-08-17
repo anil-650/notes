@@ -15,12 +15,13 @@
 4. Number of consumers in the market.(***N***)
 5. Future price expectation of the consumer. (***F***)
 
-$$
-Qd(x)=f(Px,Pr,Y,T,N,F,G,A)
-Px=Price of x
-G=Govt. Policy
-A=Advertisement expenditure
-$$
+$$Qd(x)=f(Px,Pr,Y,T,N,F,G,A)$$
+
+$$Px=Price\ of\ x$$
+
+$$G=Govt. Policy$$
+
+$$A=Advertisement\ expenditure$$
 
 ## LAW Of DEMAND
 
@@ -43,11 +44,11 @@ $$
 - The Market Demand Curve is the sum total of the Individual Demand Curves.
 - The sum total of demand of consumers of that given product at that given time.
 
-| Price | Consumer A | Consumer B | Consumer C | Market Demand of               |
-|:-----:|:----------:|:----------:|:----------:|:------------------------------:|
-| 10    | 1          | 2          | 3          | At price 10 market demand is 6 |
-| 8     | 2          | 3          | 5          | At price 8 market demand is 10 |
-| 5     | 3          | 5          | 8          | At price 5 market demand is 16 |
+| Price  | Consumer A | Consumer B | Consumer C |  Market Demand of               |
+|:------:|:----------:|:----------:|:----------:|:-------------------------------:|
+| ₹10    | 1          | 2          | 3          | At price ₹10 market demand is 6 |
+| ₹8     | 2          | 3          | 5          | At price ₹8 market demand is 10 |
+| ₹5     | 3          | 5          | 8          | At price ₹5 market demand is 16 |
 
 <!-----------Graph Space---------->
 
