@@ -15,16 +15,14 @@
 4. Number of consumers in the market.(***N***)
 5. Future price expectation of the consumer.(***F***)
 
-$$
-Qd(x)=f(Px,Pr,Y,T,N,F,G,A)\
-Px=Price\ of\ x\
-G=Govt. Policy\
-A=Advertisement\ expenditure\
-$$
+```math
+Qd(x)=f(Px,Pr,Y,T,N,F,G,A)
+Px=Price of x
+G=Govt. Policy
+A=Advertisement expenditure
+```
 
 ## LAW Of DEMAND
-
-$E = mc^2$
 
 - According to the law of demand, the factors remaining the same, if price of a commodity falls, quantity demand of said commodity will rise; if price of the commodity rises the quantity demand of said commodity will decrease.
 > **There is an inverse and opposite relationship between price and demand.**
