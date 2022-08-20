@@ -15,7 +15,9 @@
 4. Number of consumers in the market.(***N***)
 5. Future price expectation of the consumer.(***F***)
 
+
 $$ Qd(x)=f(Px,Pr,Y,T,N,F,G,A) $$
+
 
 $$ Px=Price\ of\ x $$
 
