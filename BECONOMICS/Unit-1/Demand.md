@@ -13,7 +13,7 @@
 2. Income of consumers.(***T***)
 3. Price of Related goods.(***Pr***)
 4. Number of consumers in the market.(***N***)
-5. Future price expectation of the consumer. (***F***)
+5. Future price expectation of the consumer.(***F***)
 
 
 $$
