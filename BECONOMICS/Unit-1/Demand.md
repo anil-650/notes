@@ -16,6 +16,8 @@
 5. Future price expectation of the consumer.(***F***)
 
 
+
+
 $$
 Qd(x)=f(Px,Pr,Y,T,N,F,G,A)
 $$
