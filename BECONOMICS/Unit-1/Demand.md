@@ -16,14 +16,14 @@
 5. Future price expectation of the consumer.(***F***)
 
 
-$$ Qd(x)=f(Px,Pr,Y,T,N,F,G,A) $$
+$$Qd(x)=f(Px,Pr,Y,T,N,F,G,A)$$
 
 
-$$ Px=Price\ of\ x $$
+$$Px=Price\ of\ x$$
 
-$$ G=Govt. Policy $$
+$$G=Govt. Policy$$
 
-$$ A=Advertisement\ expenditure $$
+$$A=Advertisement\ expenditure$$
 
 
 ## LAW Of DEMAND
