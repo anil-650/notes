@@ -20,13 +20,16 @@ $$
 Qd(x)=f(Px,Pr,Y,T,N,F,G,A)
 $$
 
+
 $$
 Px=Price\ of\ x
 $$
 
+
 $$
 G=Govt. Policy
 $$
+
 
 $$
 A=Advertisement\ expenditure
