@@ -24,6 +24,8 @@ $$
 
 ## LAW Of DEMAND
 
+$E = mc^2$
+
 - According to the law of demand, the factors remaining the same, if price of a commodity falls, quantity demand of said commodity will rise; if price of the commodity rises the quantity demand of said commodity will decrease.
 > **There is an inverse and opposite relationship between price and demand.**
 
