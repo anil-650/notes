@@ -58,3 +58,56 @@ $$A=Advertisement expenditure$$
 - Necessities of Life (Life saving Meds)
 - Speculation (If people are convinced that if a products price going to be very high, they will not bother for the price)
 
+<!--
+## Increase and decrease in Demand Curve
+
+### Increase in Demand
+
+- When the demand Curve increase price stays the same (Px is the same).
+- It appears when other factors are changed.
+-->
+
+## Elasticity of Demand
+
+- Price Elasticity of Demand is used to measure the degree of changes by the help of formula
+
+```
+Ep = % changes in QD / % changes in Price
+= (∆q/q × 100) / (∆p/p × 100) [∆q = diffrence in quantity demand & ∆p = diffrence in price]
+= ∆q/∆p × p/q
+```
+
+### Perfectly Elasticity of Demand
+
+- If the price is more than OP the OQ will go to Zero.
+- If the price is less than OP the OQ might increase or decrease to any length
+- Ex: if the vegetable vendor selling higher than avg. price you won't buy.
+- Small changes in price will bring infinite changes in the Quantity Demand.
+
+### Perfectly En elasticity of Demand
+
+- Irrespective  to price , demand won't be affected.
+- Ex: Salt, you won't be more salt or less even if the salt price change.
+
+### Unitary Elasticity of Demand
+
+- When % change in price brings equal changes in Quantity Demand.
+
+### Relatively more Elasticity of Demand
+
+- When % change in price brings more than proportional changes in Quantity Demand.
+
+### Relatively less Elasticity of Demand
+
+- When % change in price brings less than a percentage changes in Quantity Demand.
+
+### Relatively less Elasticity of Demand
+
+- Measuring changes in QD due to changes in Income.
+- Degree of responsiveness of QD in response to changes in Income.
+
+```
+IE = % changes in QD / % changes in Income
+= (∆Q/Q × 100) / (∆I/I × 100) [∆Q = Diffrence in Quantity demand & ∆I = Diffrence in Income]
+= ∆Q/∆I × I/Q
+```
