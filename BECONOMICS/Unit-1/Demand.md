@@ -72,9 +72,17 @@ $$A=Advertisement expenditure$$
 - Price Elasticity of Demand is used to measure the degree of changes by the help of formula
 
 ```
-Ep = % changes in QD / % changes in Price
-= (∆q/q × 100) / (∆p/p × 100) [∆q = diffrence in quantity demand & ∆p = diffrence in price]
-= ∆q/∆p × p/q
+Ep = % changes in QD 
+     ------------------
+     % changes in Price
+
+= (∆q/q × 100) 
+  ------------ [∆q = diffrence in quantity demand & ∆p = diffrence in price]
+  (∆p/p × 100)
+
+=  ∆q      p
+  ---- × ----
+   ∆p      q 
 ```
 
 ### Perfectly Elasticity of Demand
