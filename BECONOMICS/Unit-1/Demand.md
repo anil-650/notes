@@ -115,7 +115,15 @@ Ep = % changes in QD
 - Degree of responsiveness of QD in response to changes in Income.
 
 ```
-IE = % changes in QD / % changes in Income
-= (∆Q/Q × 100) / (∆I/I × 100) [∆Q = Diffrence in Quantity demand & ∆I = Diffrence in Income]
-= ∆Q/∆I × I/Q
+IE = % changes in QD 
+    ------------------
+    % changes in Income
+
+  (∆Q/Q × 100) 
+= -------------  [∆Q = Diffrence in Quantity demand & ∆I = Diffrence in Income]
+  (∆I/I × 100)
+
+=  ∆Q      I
+  ----- × ---
+   ∆I      Q
 ```
