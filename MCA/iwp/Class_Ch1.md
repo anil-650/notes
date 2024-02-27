@@ -51,12 +51,12 @@ with devices over the network
 > *"The Internet is the most important single devlopment to come along scince the IBM PC was introduced in **1981**. It's even more important than the arrival of Graphical User Interface(GUI) .. The internet is a Tidal Wave. It changes the rules."*
 > -- Bill Gates, 1995
 
-[!NOTE]
-Tim Berners Lee created World Wide Web
+> [!NOTE]
+> Tim Berners Lee created World Wide Web
 
 - **Mark Andreesen** devloped **Mosaic** at *University of Illionis, Champaing Urbana*
 
 - **Telnet** : *Telephonic Net*
 
-[!NOTE]
-Ethernet : dveloped by Robert Matcalfe & David Boggs at Xerox PARC
+> [!NOTE]
+> Ethernet : dveloped by Robert Matcalfe & David Boggs at Xerox PARC
