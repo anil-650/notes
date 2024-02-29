@@ -100,6 +100,8 @@ with devices over the network
 ## Dt:01/03/24
 ---
 
+### The Web: 76-79
+
 > [!NOTE]
 > The Internet is a network of computers using TCP/IP. The Web is the creation of Tim ***Berners-Lee*** and is based on his major insight to combine hypertext with the already existing Internet.
 
@@ -124,4 +126,35 @@ with devices over the network
 - **HTML:** The language used to display text and graphics on web pages.
 - **URL:** The "address" of a web page, following a specific syntax.
 
+> [!TIP]
+> Operating system compatibility is irrelevant between browser and server.
+
+- Requires browser (e.g., Netscape Navigator, Internet Explorer) on the client and HTTP server software (e.g., Apache, IIS) on the server.
+
+> [!NOTE]
+> **Apache** is the leading open-source HTTP server software.
+
+### Basic Internet Tools: 79-80
+
+- **FTP (File Transfer Protocol):** Allows file exchange over the internet.
+- **Types of FTP:** (2 types)
+    - **Non-anonymous:** Requires account name and password for server access.
+    - **Anonymous:** Allows public access to specific server directories.
+- **Contrasts with HTTP:**
+    - **Connection:** Stays connected to the same server after clicking links.
+    - **Content display:** Shows only directory structure, not actual file content.
+    - **Server role:** Serves files, not used for computations.
+
+#### FTP is a valuable Tool for Businesses
+
+- **Benefits:**
+    1. **Quick and secure file exchange:** Ideal for software distribution, driver updates, document sharing, etc.
+    2. **Cost-effective:** Eliminates the need for physical media (e.g., CDs) and postal services.
+    3. **Efficient:** Streamlines web development by uploading files directly to the server.
+- **Use Cases:**
+    1. Software downloads (e.g., after purchase)
+    2. Driver updates (e.g., printer drivers)
+    3. Document exchange (e.g., purchase orders)
+    4. Web development (uploading web pages to servers)
+- **Not limited to:** Software companies; applicable to various industries for file sharing and collaboration.
 
