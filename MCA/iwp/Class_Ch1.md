@@ -60,3 +60,39 @@ with devices over the network
 
 > [!NOTE]
 > Ethernet : dveloped by Robert Matcalfe & David Boggs at Xerox PARC
+
+- eathernet is a technology where Only one device can talk on the wire at a time.
+
+## Dt:29/02/34
+---
+
+> [!NOTE]
+> **Bandwidth** refers to the *Capacity* of a network
+
+- Bandwidth is usually measured in *Kilo bits per second* (***Kbps***). 1 KB/s = 8 Kbps
+
+  |Bandwidth    |Speed **Mbps**|
+  |-------------|:------------:|
+  | Narrow band | < 1          |
+  | Mid band    | 1-10         |
+  | Broad band  | >= 10        |
+
+  The above is nt absolute
+
+- **WAN** : *Wide Area Network* connects networks across diffrent Geographical lcations
+- **Router** : A device that sends or routes packets from one LAN to another LAN.
+
+### Packet switching
+
+> [!NOTE]
+> ***Circuit switching*** is a thechnique where to transmmit data from A to B, a path is reserved between A-B until the data transmissionis done.
+
+- Packet switching was based on the concept of Circuit switching. It overcame the problems of packect switching by breaking the message into smaller packets and sending it across network on diffrent paths.
+
+#### Important Things about Packets
+
+- Packets are numbered, so they can be reassembledd at the destionation.
+- Each packet has the Destination and Source address.
+- Packets get sent over the network as capacity(bandwidth) becomes available.
+- Packets are forwared across the network and may not follow the same path.
+- A single packet is called a **Datagram**
