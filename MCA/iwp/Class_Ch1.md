@@ -96,3 +96,22 @@ with devices over the network
 - Packets get sent over the network as capacity(bandwidth) becomes available.
 - Packets are forwared across the network and may not follow the same path.
 - A single packet is called a **Datagram**
+
+## Dt:01/03/24
+---
+
+> [!NOTE]
+> The Internet is a network of computers using TCP/IP. The Web is the creation of Tim ***Berners-Lee*** and is based on his major insight to combine hypertext with the already existing Internet.
+
+- **Hypertext**: is a term due to ***Ted Nebon***. It allows a person to read or explore in a *non-linear* fashion by following links to other text, sound or video files.
+- Before the Web came into being there were hypertext products in the marketplace, such as **Guide** and **Hypercard**.
+- **Tim Berners-Lee** was working at *CERN, a European particle physics laboratory located near Geneva, Switzerland*.
+- Berners-Lee realized that it would not be feasible to force the wide mix of researchers at CERN to reorganize their way of doing things to fit a new system. His solution was to marry hypertext with the Internet.
+- The World Wide Web consists of three key components, HTTP, HTML, and URL, all developed by Berners-Lee.
+- HTTP (hypertext transfer protocol) is a high-level protocol used to exchange information between a browser and a server.
+- The messages sent between the browser and server are either **request** or **response** messages.
+
+> [!NOTE]
+> The request message contains information such as the type of browser and operating system, and the body containing data, for example, data entered into a form.
+
+- The response from the server will contain a code indicating that the requested file was found or an error code, header information such as the type of server software, and the body containing the HTML of the requested file.
