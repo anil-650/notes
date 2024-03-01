@@ -94,8 +94,9 @@ with devices over the network
 - Packets are numbered, so they can be reassembledd at the destionation.
 - Each packet has the Destination and Source address.
 - Packets get sent over the network as capacity(bandwidth) becomes available.
-- Packets are forwared across the network and may not follow the same path.
+- Packets are forwarded across the network and may not follow the same path.
 - A single packet is called a **Datagram**
+- Packets are encapsulated into **Frames** to travel across different networks.
 
 ## Dt:01/03/24
 ---
@@ -105,8 +106,25 @@ with devices over the network
 > [!NOTE]
 > The Internet is a network of computers using TCP/IP. The Web is the creation of Tim ***Berners-Lee*** and is based on his major insight to combine hypertext with the already existing Internet.
 
-- **Hypertext** : is a term due to ***Ted Nebon***. It allows a person to read or explore in a *non-linear* fashion by following links to other text, sound or video files.
-- Before the Web came into being there were hypertext products in the marketplace, such as **Guide** and **Hypercard**.
+> [!NOTE]
+> IP address e.g. `192.168.0.1`
+> - Addressing system is 32-bit binary.
+> - 4 sets of decimal no. separated by 3 periods, called "Dotted Decimal
+> - Maximum and Minimum address possible is `255.255.255.255` - `0.0.0.0`.
+
+
+- **Hypertext** : is a term due to ***Ted Nelson***. It allows a person to read or explore in a *non-linear* fashion by following links to other text, sound or video files.
+- Before the Web came into being there were hypertext products in the marketplace, such as 
+    - **Guide** by Owl ltd.
+    - **Hypercard**. by Apple Computers
+
+> [!TIP]
+> - On Internet everything is connected by TCP/IP; On Network they might not
+> - Some old networking Protocols
+>   - Apple talk (Macintosh)
+>   - Token Ring
+>   - Novell Netware
+
 - **Tim Berners-Lee** was working at *CERN, a European particle physics laboratory located near Geneva, Switzerland*.
 - Berners-Lee realized that it would not be feasible to force the wide mix of researchers at CERN to reorganize their way of doing things to fit a new system. His solution was to marry hypertext with the Internet.
 - The World Wide Web consists of three key components, HTTP, HTML, and URL, all developed by Berners-Lee.
