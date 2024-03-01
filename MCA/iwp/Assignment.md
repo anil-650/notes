@@ -1,6 +1,8 @@
 # Assignment:- 1 Mar 24
-1. What is the difference between IPv4 and IPv6 address system ?
+## 1. What is the difference between IPv4 and IPv6 address system ?
+
 **Difference between IPv4 and IPv6 address system:**
+
 | **IPv4 (Internet Protocol version 4):** | **IPv6 (Internet Protocol version 6):** |
 |-----------------------------------------|-----------------------------------------|
 | Uses a 32-bit address format. | Uses a 128-bit address format. |
@@ -9,8 +11,10 @@
 | Addresses are categorized into classes (A, B, C, D, E). | Eliminates the need for address classes, simplifying routing and address allocation. |
 | IPv4 addresses are becoming scarce due to the exponential growth of internet-connected devices. | IPv6 adoption is increasing to accommodate the growing number of internet-enabled devices and address exhaustion issues. |
 
-2. Compare between Apple talk & TCP/IP ? (5 points)
+## 2. Compare between Apple talk & TCP/IP ? (5 points)
+
 **Comparison between AppleTalk & TCP/IP:**
+
 - **Architecture:**
     - **AppleTalk:** Proprietary networking protocol developed by Apple Inc. Primarily used in Apple Macintosh computers and related devices.
     - **TCP/IP :** Open, standardized protocol suite used for internet communication. Comprised of multiple protocols, including TCP, IP, UDP, and others.
@@ -41,8 +45,10 @@
     - Requires additional software or configuration for some advanced functionalities.
 
 
-3. CERN , what is the full form ? what is their role ?
+## 3. CERN , what is the full form ? what is their role ?
+
 **CERN (European Organization for Nuclear Research):**
+
 - **Full Form:** CERN stands for Conseil Européen pour la Recherche Nucléaire (European Council for Nuclear Research).
     - **Role in Internet Development:**
     - CERN played a significant role in the development of the internet by contributing to the creation of the World Wide Web (WWW).
