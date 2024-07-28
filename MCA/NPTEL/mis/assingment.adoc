@@ -1,5 +1,15 @@
 == Managment Informaention Technlogu Assignments
 [%header,format=csv]
 |===
-include::data.csv[]
+No.,Week 1,Week 2
+1.,D,A
+2.,A,B
+3.,D,C
+4.,D,D
+5.,A,A
+6.,B,A
+7.,A,B
+8.,B,A
+9.,A,B
+10.,C,A
 |===
