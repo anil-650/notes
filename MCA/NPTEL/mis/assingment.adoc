@@ -1,0 +1,5 @@
+== Managment Informaention Technlogu Assignments
+[%header,format=csv]
+|===
+include::data.csv[]
+|===
